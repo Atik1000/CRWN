@@ -15,7 +15,7 @@ class Directory extends React.Component {
           imageUrl: "https://i.ibb.co/cvpntL1/hats.png",
           id: 1,
           linkUrl: "hats",
-          name:"Atik"
+         
         },
         {
           title: "jackets",
@@ -34,7 +34,7 @@ class Directory extends React.Component {
           imageUrl: "https://i.ibb.co/GCCdy8t/womens.png",
           size: "large",
           id: 4,
-          linkUrl: "",
+          linkUrl: "womens",
         },
         {
           title: "mens",
